@@ -1,5 +1,7 @@
 # Rexam-JS
-📖 Recipe Book Web App
+<h1>Exam Recording <a href="https://drive.google.com/drive/folders/1FT9lU0d5npCDb5JWOh0TetGtDjYZyy9F?usp=sharing"> Recorde Video</a> </h1>
+
+<h1>📖 Recipe Book Web App</h1>
 This project is a simple and dynamic Recipe Book web application built using JavaScript, HTML, and CSS.
 It allows users to add multiple food recipes and display them in an organized way!
 
@@ -51,7 +53,11 @@ Open the index.html file in your browser.
 Start adding your favorite recipes and watch them appear instantly! 🍽️
 
 📸 Preview
-Coming Soon... (Tip: You can add screenshots or GIFs showing a recipe being added for an even better README.)
+
+
+https://github.com/user-attachments/assets/8b2e051f-93c3-480b-b166-87397d56e338
+
+
 
 📢 Contributing
 Contributions are welcome!
